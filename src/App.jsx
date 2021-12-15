@@ -3,7 +3,7 @@ import '@/App.less';
 
 const App = () => (
   <div className='app'>
-    <h1>Hello World</h1>
+    <h1>Hello Dike</h1>
   </div>
 );
 
